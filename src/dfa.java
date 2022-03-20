@@ -1,5 +1,3 @@
-package VirtualPet;
-
 import java.util.Scanner;
 
 public class dfa {
