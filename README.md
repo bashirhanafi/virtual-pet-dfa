@@ -11,7 +11,7 @@ Adaptasi dari serial animasi Jepang ini dapat kita jadikan Hamtaro sebagai Virtu
 Berikut ini adalah Hamtaro sebagai Virtual Pet dengan 6 keadaan (lapar, kenyang, senang, sedih, kotor, bersih) dan 4 aksi (makan, tidur, bermain, mandi). Transisi keadaan didapatkan dari deskripsi pada keadaan dan aksi. Keadaan terakhir apabila Hamtaro merasa lebih baik. 
 Jika dituliskan dalam bentuk formal:
 
-P1 = ({Lapar, Kenyang, Senang, Sedih, Kotor, Bersih}, { Makan, Tidur, Bermain, Mandi}, δ, Lapar, {Kenyang, Senang, Bersih})
+P1 = ({Lapar, Kenyang, Senang, Sedih, Kotor, Bersih}, { Makan, Tidur, Bermain, Mandi}, δ, Sedih, {Kenyang, Senang, Bersih})
 
 Q = {Lapar, Kenyang, Senang, Sedih, Kotor, Bersih}
 
