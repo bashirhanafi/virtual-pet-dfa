@@ -34,5 +34,5 @@ Dengan fungsi transisi sebagai berikut:
 ### Diagram Transisi
 Berdasarkan definisi formal yang telah dibuat di atas, maka mesin FSA jika dirancang menggunakan diagram transisi menjadi:
 
-![Capture](https://user-images.githubusercontent.com/85800672/162574871-6115827d-51e0-4a49-935d-1b77f8ad4e50.PNG)
+![Image](https://github.com/bashirhanafi/virtual-pet-dfa/blob/03ac8de3b44bb2ef22881c37ae13b3c1e6314ebb/src/Diagram%20Transisi.PNG)
 
