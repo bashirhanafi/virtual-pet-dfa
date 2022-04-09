@@ -8,14 +8,14 @@ public class dfa {
     static Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
         /* Definisi Formal :
-        P1 = ({Lapar, Kenyang, Senang, Sedih, Kotor, Bersih}, { Makan, Tidur, Bermain, Mandi}, δ, Lapar, {Kenyang, Senang, Bersih})
+        P1 = ({Lapar, Kenyang, Senang, Sedih, Kotor, Bersih}, { Makan, Tidur, Bermain, Mandi}, δ, Sedih, {Kenyang, Senang, Bersih})
         Q = {Lapar, Kenyang, Senang, Sedih, Kotor, Bersih}
         Σ = {Makan, Tidur, Bermain, Mandi}
-        S = Lapar
+        S = Sedih
         F = {Kenyang, Senang, Bersih}
         */
 
-        Lapar(); // <- State Awal (S)
+        Sedih(); // <- State Awal (S)
     }
 
     public static void aksi() {
